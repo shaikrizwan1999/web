@@ -1,0 +1,104 @@
+body
+{
+    background-image: url("C:\Users\user\Downloads\usaimage.jpg");
+    background-repeat: repeat;
+    background-color:rgb(135 184 235 / 29%);
+
+}
+h1{
+  text-align: center;
+
+
+}
+p{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img1
+{
+    float: left;
+
+}
+ul
+{
+    list-style-type: none;
+    padding: 5px;
+    margin: 5px;
+
+}
+li
+{
+    float: left;
+    text-align: center;
+}
+a
+{
+    display: block;
+    width: 150px;
+    background-color:aliceblue;
+    padding: 10px;
+    border: 1px solid black;
+}
+a:hover
+{
+    background-color: black;
+    color: white;
+}
+.div1
+{
+    width: 1000px;
+    height: 1000px;
+    border: 5px dashed black;
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+.div2
+{
+    width: 1500px;
+    border: 5px dotted orange;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td
+{
+    border: 1px solid black;
+    width: 150px;
+    padding: 10px;
+}
+th
+{
+    border: 1px solid black;
+    background-color: #FF5A39;
+    color: #ffffff;
+    padding: 10px;
+}
+.header
+{
+    border: 1px solid black;
+    background-color: #471ae9;
+    color: #ffffff;
+    padding: 10px;
+}
+.first
+{
+    color: blueviolet;
+}
+.second
+{
+    color: red;
+}
+.third
+{
+    color: green;
+}
